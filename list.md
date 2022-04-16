@@ -87,4 +87,10 @@ Interpost Redux         |[Link](https://github.com/SS13-Source-Archive/Interpost
 Interpost hauge Urban Warfare|[Link](https://github.com/SS13-Source-Archive/IPH-Urban-Warfare) |Last changed:  `1 Apr 2020`
 IS12 Warfare            |[Link](https://github.com/SS13-Source-Archive/IS12-Warfare)           |Last changed: `18 Nov 2021`
 Isolation Station 13    |[Link](https://github.com/SS13-Source-Archive/Isolation-Station-14)   |Last changed:  `5 Feb 2017`, (Eris)
+InfinityStation         |[Link](https://github.com/SS13-Source-Archive/EuropaStation-1)        |Last changed: `17 Apr 2018`, (Europa)
 Isolation Station 13    |[Link](https://github.com/SS13-Source-Archive/Isolation-Station-13)   |Last changed:  `8 Oct 2020`, (Bay12)
+InfinityStation         |[Link](https://github.com/SS13-Source-Archive/Baystation12-1)         |Borderline inactive, changes every few weeks
+Luna                    |[Link](https://github.com/SS13-Source-Archive/luna)                   |Last changed: `16 Dec 2013`
+Lawful Sosaki           |[Link](https://github.com/SS13-Source-Archive/Lawful-Sosaki)          |Last changed:  `7 Oct 2017`
+Lifeweb Rougelike       |[Link](https://github.com/SS13-Source-Archive/LFWB_Roguelike)         |Last changed: `20 Jun 2020`
+Lilli Station           |[Link](https://github.com/SS13-Source-Archive/Lili-station)           |Last changed:  `8 Sep 2020`
