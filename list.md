@@ -38,6 +38,14 @@ Europa Station          |[Link](https://github.com/SS13-Source-Archive/EuropaSta
 Eclipse Station 13      |[Link](https://github.com/SS13-Source-Archive/Eclipse-Station-13)     |Last changed: `23 Feb 2020`
 EPN5 Anarchy            |[Link](https://github.com/Anarchist-Station/EPN5-Anarchy)             |Last changed: `18 Sep 2020`
 Escape Pod Number Five (EPN5)|[Link](https://github.com/SS13-Source-Archive/EPN5-Neb)          |Last changed: `13 Feb 2021`
+Fallout 13              |[Link](https://github.com/SS13-Source-Archive/Fallout13)              |Last changed: `10 Apr 2016`, (F13 a0.3)
+Fallout 13              |[Link](https://github.com/SS13-Source-Archive/Fallout-13)             |Last changed: `10 Nov 2017`, (F13 b0.1)
+Fallout Vault One       |[Link](https://github.com/SS13-Source-Archive/Fallout-VaultOne)       |Last changed:  `5 Feb 2018`, (F13 a0.5)
+Fields of Fire          |[Link](https://github.com/SS13-Source-Archive/Fields-of-Fire)         |Last changed: `15 Feb 2018`
+FTL13                   |[Link](https://github.com/SS13-Source-Archive/FTL13)                  |Last changed: `10 May 2019`
+Farweb                  |[Link](https://github.com/SS13-Source-Archive/Far)                    |Last changed: `27 May 2020`
+Fallout New Bingus Outcasts|[Link](https://github.com/SS13-Source-Archive/Fallout-New-Bingus-Outcasts)|Last changed: `9 Oct 2020`, (F13 b0.1)
+Fallout Equestria 13    |[Link](https://github.com/SS13-Source-Archive/Fallout-Equestria-13)   |Last changed: `27 Oct 2020`
 
 ## Active Servers (As of `16 Apr 2022`)
 
