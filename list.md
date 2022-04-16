@@ -94,3 +94,8 @@ Luna                    |[Link](https://github.com/SS13-Source-Archive/luna)    
 Lawful Sosaki           |[Link](https://github.com/SS13-Source-Archive/Lawful-Sosaki)          |Last changed:  `7 Oct 2017`
 Lifeweb Rougelike       |[Link](https://github.com/SS13-Source-Archive/LFWB_Roguelike)         |Last changed: `20 Jun 2020`
 Lilli Station           |[Link](https://github.com/SS13-Source-Archive/Lili-station)           |Last changed:  `8 Sep 2020`
+Mars Station 13         |[Link](https://github.com/SS13-Source-Archive/mars-station-13)        |Last changed: `11 Dec 2011`
+Manaforge               |[Link](https://github.com/SS13-Source-Archive/manaforge)              |Last changed: `12 Jul 2020`
+Manos                   |[Link](https://github.com/SS13-Source-Archive/Manaos)                 |Last changed:  `4 Oct 2020`
+MonkeyStation           |[Link](https://github.com/SS13-Source-Archive/MonkeyStation)          |Last changed: `20 Jul 2021`
+Mojave Sun              |[Link](https://github.com/SS13-Source-Archive/mojave-sun)             |Last changed: `25 Aug 2021`
