@@ -19,9 +19,8 @@ Baystation 12 Pre-Luna  |[Link](https://github.com/SS13-Source-Archive/Baystatio
 Blue Torch Admirality   |[Link](https://github.com/SS13-Source-Archive/BlueTorchAdmiralty)     |Last changed: `22 Dec 2017`
 Battle for Dream Island |[Link](https://github.com/SS13-Source-Archive/Battle-For-Dream-Island)|Last changed: `09 Aug 2018`
 Bad Deathclaw           |[Link](https://github.com/SS13-Source-Archive/bad-deathclaw)          |Last changed: `19 Oct 2018`
-Bastion of Hestia Bay   |[Link](https://github.com/SS13-Source-Archive/BoH-Bay)                |Last changed:  `7 Aug 2020`
+Bastion of Hestia (Bay) |[Link](https://github.com/SS13-Source-Archive/BoH-Bay)                |Last changed:  `7 Aug 2020`
 Beestation Clover       |[Link](https://github.com/SS13-Source-Archive/Clover)                 |Last changed: `27 Mar 2021`
-Beestation Chaotic Onyx |[Link](https://github.com/SS13-Source-Archive/BeeStation/commits/master)|Borderline inactive, changes every few weeks
 Carpstation -1          |[Link](https://github.com/SS13-Source-Archive/CarpStation-1)          |Uploaded `16 Sep 2020`, No commit history
 Carpstation -2          |[Link](https://github.com/SS13-Source-Archive/CarpStation-2)          |Uploaded `16 Sep 2020`, No commit history
 Carpstation             |[Link](https://github.com/SS13-Source-Archive/CarpStation)            |Last changed:  `4 Oct 2020`
@@ -29,6 +28,11 @@ Chaos Rising SS13       |[Link](https://github.com/Chaos-Rising/ChaosRisingSS13)
 CHOMPStation (Old)      |[Link](https://github.com/SS13-Source-Archive/CHOMPstation)           |Last changed:  `2 Jan 2021`
 ColonyStation           |[Link](https://github.com/SolCorporation/ColonyStation)               |last changed: `14 Jan 2021`
 Clear Skies             |[Link](https://github.com/SS13-Source-Archive/ClearSkies)             |Last changed: `19 May 2021`
+Chaotic Onyx (Beestation)|[Link](https://github.com/SS13-Source-Archive/BeeStation/commits/master)|Borderline inactive, changes every few weeks
+D2Station (v1, v2, v4)  |[Link](https://github.com/SS13-Source-Archive/d2station-full)         |Uploaded `1 Feb 2020`, Dates to 2009-2013 in branches
+Daedalus                |[Link](https://github.com/SS13-Source-Archive/daedalus)               |Last changed: `23 Mar 2014`
+Dragonroll              |[Link](https://github.com/SS13-Source-Archive/dragonroll)             |Last Changed: `17 Aug 2015`
+Desertrose (Old)        |[Link](https://github.com/SS13-Source-Archive/desertrose)             |Last changed:  `3 Mar 2021`
 
 ## Active Servers (As of `16 Apr 2022`)
 
@@ -43,3 +47,4 @@ CHOMPStation 2          |[Link](https://github.com/SS13-Source-Archive/CHOMPStat
 CitadelStation (TG)     |[Link](https://github.com/SS13-Source-Archive/Citadel-Station-13)     |
 CitadelStation RP (Virgo)|[Link](https://github.com/SS13-Source-Archive/Citadel-Station-13-RP) |
 Civilization 13         |[Link](https://github.com/SS13-Source-Archive/Civ13)                  |
+Dead Space 13 (DS13)    |[Link](https://github.com/SS13-Source-Archive/DS13)                   |
