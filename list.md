@@ -10,11 +10,13 @@ Baystation 12           |[Link](https://github.com/SS13-Source-Archive/Baystatio
 Beestation Hornet       |[Link](https://github.com/SS13-Source-Archive/BeeStation-Hornet)      |
 CEV-Eris                |[Link](https://github.com/SS13-Source-Archive/CEV-Eris)               |
 CHOMPStation 2          |[Link](https://github.com/SS13-Source-Archive/CHOMPStation2)          |
-CitadelStation (TG)     |[Link](https://github.com/SS13-Source-Archive/Citadel-Station-13)     |
-CitadelStation RP (Virgo)|[Link](https://github.com/SS13-Source-Archive/Citadel-Station-13-RP) |
+Citadel Station (TG)    |[Link](https://github.com/SS13-Source-Archive/Citadel-Station-13)     |
+Citadel Station RP (Virgo)|[Link](https://github.com/SS13-Source-Archive/Citadel-Station-13-RP) |
 Civilization 13         |[Link](https://github.com/SS13-Source-Archive/Civ13)                  |
 Dead Space 13 (DS13)    |[Link](https://github.com/SS13-Source-Archive/DS13)                   |
 Goonstation Open        |[Link](https://github.com/SS13-Source-Archive/goonstation)            |
+HypatiaStation          |[Link](https://github.com/SS13-Source-Archive/HypatiaStation)         |
+Hyper Station 13        |[Link](https://github.com/SS13-Source-Archive/Hyper-Station-13)       |
 
 ## Inactive/Defucnt Servers
 
@@ -69,6 +71,12 @@ Goonstation (2009 SVN)  |[Link](https://github.com/SS13-Source-Archive/goonstati
 Goonstation (r4407)     |[Link](https://github.com/SS13-Source-Archive/goonstation-r4407)      |Dates to 2010
 Green (Old)             |[Link](https://github.com/SS13-Source-Archive/green_old)              |Last changed: `21 Mar 2013`
 Garrison 13             |[Link](https://github.com/SS13-Source-Archive/garrison13)             |Last changed: `25 Oct 2016`
-Green                   |[Link](https://github.com/SS13-Source-Archive/green)                  |last changed: `14 Feb 2017`
+Green                   |[Link](https://github.com/SS13-Source-Archive/green)                  |Last changed: `14 Feb 2017`
 Goonstation (2016)      |[Link](https://github.com/SS13-Source-Archive/goonstation-2016)       |Last changed: `26 Jan 2020`
 Goonstation (2020)      |[Link](https://github.com/SS13-Source-Archive/goonstation-2020)       |Last changed: `21 Mar 2020`
+HypatiaStation -1       |[Link](https://github.com/SS13-Source-Archive/HypatiaStation-1)       |Last changed:  `5 jan 2014`
+HippieStation  -1       |[Link](https://github.com/SS13-Source-Archive/HippieStation13-1)      |Last changed: `29 Jan 2017`
+HippieStation  -2       |[Link](https://github.com/SS13-Source-Archive/HippieStation13-2)      |Last changed: `12 Apr 2017`
+Hippie's Battlegrounds  |[Link](https://github.com/SS13-Source-Archive/HippiesBattlegrounds)   |Last changed: `16 Nov 2017`
+Hippiestation 2020      |[Link](https://github.com/SS13-Source-Archive/HippieStation)          |Last changed: `16 Dec 2021`
+Haven Urist             |[Link](https://github.com/Haven-13/Haven-Urist)                       |Borderline inactive, changes every few weeks
