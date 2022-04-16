@@ -44,6 +44,7 @@ Fallout Vault One       |[Link](https://github.com/SS13-Source-Archive/Fallout-V
 Fields of Fire          |[Link](https://github.com/SS13-Source-Archive/Fields-of-Fire)         |Last changed: `15 Feb 2018`
 FTL13                   |[Link](https://github.com/SS13-Source-Archive/FTL13)                  |Last changed: `10 May 2019`
 Farweb                  |[Link](https://github.com/SS13-Source-Archive/Far)                    |Last changed: `27 May 2020`
+Fallout 13 Good Radscorpian|[Link](https://github.com/SS13-Source-Archive/GoodRadscorpion-F13) |Last Changed:  `4 Oct 2020`, (F13 a0.5)
 Fallout New Bingus Outcasts|[Link](https://github.com/SS13-Source-Archive/Fallout-New-Bingus-Outcasts)|Last changed: `9 Oct 2020`, (F13 b0.1)
 Fallout Equestria 13    |[Link](https://github.com/SS13-Source-Archive/Fallout-Equestria-13)   |Last changed: `27 Oct 2020`
 
