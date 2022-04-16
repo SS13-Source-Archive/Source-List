@@ -22,6 +22,13 @@ Bad Deathclaw           |[Link](https://github.com/SS13-Source-Archive/bad-death
 Bastion of Hestia Bay   |[Link](https://github.com/SS13-Source-Archive/BoH-Bay)                |Last changed:  `7 Aug 2020`
 Beestation Clover       |[Link](https://github.com/SS13-Source-Archive/Clover)                 |Last changed: `27 Mar 2021`
 Beestation Chaotic Onyx |[Link](https://github.com/SS13-Source-Archive/BeeStation/commits/master)|Borderline inactive, changes every few weeks
+Carpstation -1          |[Link](https://github.com/SS13-Source-Archive/CarpStation-1)          |Uploaded `16 Sep 2020`, No commit history
+Carpstation -2          |[Link](https://github.com/SS13-Source-Archive/CarpStation-2)          |Uploaded `16 Sep 2020`, No commit history
+Carpstation             |[Link](https://github.com/SS13-Source-Archive/CarpStation)            |Last changed:  `4 Oct 2020`
+Chaos Rising SS13       |[Link](https://github.com/Chaos-Rising/ChaosRisingSS13)               |Last Changed: `30 Oct 2020`
+CHOMPStation (Old)      |[Link](https://github.com/SS13-Source-Archive/CHOMPstation)           |Last changed:  `2 Jan 2021`
+ColonyStation           |[Link](https://github.com/SolCorporation/ColonyStation)               |last changed: `14 Jan 2021`
+Clear Skies             |[Link](https://github.com/SS13-Source-Archive/ClearSkies)             |Last changed: `19 May 2021`
 
 ## Active Servers (As of `16 Apr 2022`)
 
@@ -31,3 +38,8 @@ Austation               |[Link](https://github.com/SS13-Source-Archive/austation
 Aurorastation           |[Link](https://github.com/SS13-Source-Archive/Aurora.3)               |
 Baystation 12           |[Link](https://github.com/SS13-Source-Archive/Baystation12)           |
 Beestation Hornet       |[Link](https://github.com/SS13-Source-Archive/BeeStation-Hornet)      |
+CEV-Eris                |[Link](https://github.com/SS13-Source-Archive/CEV-Eris)               |
+CHOMPStation 2          |[Link](https://github.com/SS13-Source-Archive/CHOMPStation2)          |
+CitadelStation (TG)     |[Link](https://github.com/SS13-Source-Archive/Citadel-Station-13)     |
+CitadelStation RP (Virgo)|[Link](https://github.com/SS13-Source-Archive/Citadel-Station-13-RP) |
+Civilization 13         |[Link](https://github.com/SS13-Source-Archive/Civ13)                  |
