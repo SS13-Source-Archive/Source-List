@@ -1,5 +1,21 @@
 # List of Servers Forked Here
 
+## Active Servers (As of `16 Apr 2022`)
+
+Server                  |Source                                                                |Notes
+------------------------|----------------------------------------------------------------------|--------
+Austation               |[Link](https://github.com/SS13-Source-Archive/austation)              |
+Aurorastation           |[Link](https://github.com/SS13-Source-Archive/Aurora.3)               |
+Baystation 12           |[Link](https://github.com/SS13-Source-Archive/Baystation12)           |
+Beestation Hornet       |[Link](https://github.com/SS13-Source-Archive/BeeStation-Hornet)      |
+CEV-Eris                |[Link](https://github.com/SS13-Source-Archive/CEV-Eris)               |
+CHOMPStation 2          |[Link](https://github.com/SS13-Source-Archive/CHOMPStation2)          |
+CitadelStation (TG)     |[Link](https://github.com/SS13-Source-Archive/Citadel-Station-13)     |
+CitadelStation RP (Virgo)|[Link](https://github.com/SS13-Source-Archive/Citadel-Station-13-RP) |
+Civilization 13         |[Link](https://github.com/SS13-Source-Archive/Civ13)                  |
+Dead Space 13 (DS13)    |[Link](https://github.com/SS13-Source-Archive/DS13)                   |
+Goonstation Open        |[Link](https://github.com/SS13-Source-Archive/goonstation)            |
+
 ## Inactive/Defucnt Servers
 
 Server                  |Source                                                                |Notes
@@ -56,19 +72,3 @@ Garrison 13             |[Link](https://github.com/SS13-Source-Archive/garrison1
 Green                   |[Link](https://github.com/SS13-Source-Archive/green)                  |last changed: `14 Feb 2017`
 Goonstation (2016)      |[Link](https://github.com/SS13-Source-Archive/goonstation-2016)       |Last changed: `26 Jan 2020`
 Goonstation (2020)      |[Link](https://github.com/SS13-Source-Archive/goonstation-2020)       |Last changed: `21 Mar 2020`
-
-## Active Servers (As of `16 Apr 2022`)
-
-Server                  |Source                                                                |Notes
-------------------------|----------------------------------------------------------------------|--------
-Austation               |[Link](https://github.com/SS13-Source-Archive/austation)              |
-Aurorastation           |[Link](https://github.com/SS13-Source-Archive/Aurora.3)               |
-Baystation 12           |[Link](https://github.com/SS13-Source-Archive/Baystation12)           |
-Beestation Hornet       |[Link](https://github.com/SS13-Source-Archive/BeeStation-Hornet)      |
-CEV-Eris                |[Link](https://github.com/SS13-Source-Archive/CEV-Eris)               |
-CHOMPStation 2          |[Link](https://github.com/SS13-Source-Archive/CHOMPStation2)          |
-CitadelStation (TG)     |[Link](https://github.com/SS13-Source-Archive/Citadel-Station-13)     |
-CitadelStation RP (Virgo)|[Link](https://github.com/SS13-Source-Archive/Citadel-Station-13-RP) |
-Civilization 13         |[Link](https://github.com/SS13-Source-Archive/Civ13)                  |
-Dead Space 13 (DS13)    |[Link](https://github.com/SS13-Source-Archive/DS13)                   |
-Goonstation Open        |[Link](https://github.com/SS13-Source-Archive/goonstation)            |
