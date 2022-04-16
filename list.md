@@ -18,7 +18,7 @@ Goonstation Open        |[Link](https://github.com/SS13-Source-Archive/goonstati
 HypatiaStation          |[Link](https://github.com/SS13-Source-Archive/HypatiaStation)         |
 Hyper Station 13        |[Link](https://github.com/SS13-Source-Archive/Hyper-Station-13)       |
 
-## Inactive/Defucnt Servers
+## Inactive/Defunct Servers
 
 Server                  |Source                                                                |Notes
 ------------------------|----------------------------------------------------------------------|--------
