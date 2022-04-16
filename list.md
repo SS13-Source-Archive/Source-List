@@ -74,9 +74,17 @@ Garrison 13             |[Link](https://github.com/SS13-Source-Archive/garrison1
 Green                   |[Link](https://github.com/SS13-Source-Archive/green)                  |Last changed: `14 Feb 2017`
 Goonstation (2016)      |[Link](https://github.com/SS13-Source-Archive/goonstation-2016)       |Last changed: `26 Jan 2020`
 Goonstation (2020)      |[Link](https://github.com/SS13-Source-Archive/goonstation-2020)       |Last changed: `21 Mar 2020`
-HypatiaStation -1       |[Link](https://github.com/SS13-Source-Archive/HypatiaStation-1)       |Last changed:  `5 jan 2014`
+HypatiaStation (Old)    |[Link](https://github.com/SS13-Source-Archive/HypatiaStation-1)       |Last changed:  `5 jan 2014`
 HippieStation  -1       |[Link](https://github.com/SS13-Source-Archive/HippieStation13-1)      |Last changed: `29 Jan 2017`
 HippieStation  -2       |[Link](https://github.com/SS13-Source-Archive/HippieStation13-2)      |Last changed: `12 Apr 2017`
 Hippie's Battlegrounds  |[Link](https://github.com/SS13-Source-Archive/HippiesBattlegrounds)   |Last changed: `16 Nov 2017`
 Hippiestation 2020      |[Link](https://github.com/SS13-Source-Archive/HippieStation)          |Last changed: `16 Dec 2021`
 Haven Urist             |[Link](https://github.com/Haven-13/Haven-Urist)                       |Borderline inactive, changes every few weeks
+Insurrection 13         |[Link](https://github.com/SS13-Source-Archive/Insurrection-13)        |Last changed: `30 Jul 2020`
+InterBay                |[Link](https://github.com/SS13-Source-Archive/InterBay)               |Last changed: `10 Dec 2017`
+Interpost Hauge         |[Link](https://github.com/SS13-Source-Archive/Interpost-Hague-1)      |Last changed: `11 Aug 2020`
+Interpost Redux         |[Link](https://github.com/SS13-Source-Archive/Interpost-Redux-1)      |Last changed:  `2 Nov 2020`
+Interpost hauge Urban Warfare|[Link](https://github.com/SS13-Source-Archive/IPH-Urban-Warfare) |Last changed:  `1 Apr 2020`
+IS12 Warfare            |[Link](https://github.com/SS13-Source-Archive/IS12-Warfare)           |Last changed: `18 Nov 2021`
+Isolation Station 13    |[Link](https://github.com/SS13-Source-Archive/Isolation-Station-14)   |Last changed:  `5 Feb 2017`, (Eris)
+Isolation Station 13    |[Link](https://github.com/SS13-Source-Archive/Isolation-Station-13)   |Last changed:  `8 Oct 2020`, (Bay12)
