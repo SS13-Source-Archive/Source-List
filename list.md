@@ -1,5 +1,7 @@
 # List of Servers Forked Here
 
+## Inactive Servers
+
 Server                  |Source                                                                |Notes
 ------------------------|----------------------------------------------------------------------|--------
 Atlas Station           |[Link](https://github.com/SS13-Source-Archive/AtlasStation)           |Last changed: `23 Apr 2015`
@@ -9,5 +11,8 @@ Absolutely New White    |[Link](https://github.com/SS13-Source-Archive/absolutel
 Ark Station             |[Link](https://github.com/SS13-Source-Archive/Ark-Station)            |Last changed: `11 Feb 2020`
 ARFS-5                  |[Link](https://github.com/SS13-Source-Archive/ARFS-5)                 |Last changed: `29 Nov 2020`
 Apocalypse-13           |[Link](https://github.com/SS13-Source-Archive/Apocalypse-13)          |Last changed:  `9 Jan 2021`
+
+## Active Servers
+
 Austation               |[Link](https://github.com/SS13-Source-Archive/austation)              |Active as of: `16 Apr 2022`
 Aurorastation           |[Link](https://github.com/SS13-Source-Archive/Aurora.3)               |Active as of: `16 Apr 2022`
