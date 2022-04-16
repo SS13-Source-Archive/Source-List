@@ -11,6 +11,7 @@ Absolutely New White    |[Link](https://github.com/SS13-Source-Archive/absolutel
 Ark Station             |[Link](https://github.com/SS13-Source-Archive/Ark-Station)            |Last changed: `11 Feb 2020`
 ARFS-5                  |[Link](https://github.com/SS13-Source-Archive/ARFS-5)                 |Last changed: `29 Nov 2020`
 Apocalypse-13           |[Link](https://github.com/SS13-Source-Archive/Apocalypse-13)          |Last changed:  `9 Jan 2021`
+AusGoon                 |[Link](https://github.com/SS13-Source-Archive/goonstation-1)          |Last changed: `17 Oct 2021`
 Baystation 12 Pre-r4407 |[Link](https://github.com/SS13-Source-Archive/Baystation12-Pre-Goon)  |Last changed: `19 Jun 2010`
 Black                   |[Link](https://github.com/SS13-Source-Archive/black)                  |Last changed:  `5 May 2014`
 Black Old               |[Link](https://github.com/SS13-Source-Archive/black_old)              |Last changed: `26 Jun 2015`
@@ -47,6 +48,14 @@ Farweb                  |[Link](https://github.com/SS13-Source-Archive/Far)     
 Fallout 13 Good Radscorpian|[Link](https://github.com/SS13-Source-Archive/GoodRadscorpion-F13) |Last Changed:  `4 Oct 2020`, (F13 a0.5)
 Fallout New Bingus Outcasts|[Link](https://github.com/SS13-Source-Archive/Fallout-New-Bingus-Outcasts)|Last changed: `9 Oct 2020`, (F13 b0.1)
 Fallout Equestria 13    |[Link](https://github.com/SS13-Source-Archive/Fallout-Equestria-13)   |Last changed: `27 Oct 2020`
+Goonstation (2008)      |[Link](https://github.com/SS13-Source-Archive/gs13)                   |Only has mapfiles & DME
+Goonstation (2009 SVN)  |[Link](https://github.com/SS13-Source-Archive/goonstationrepo)        |Last changed: `21 Mar 2009`; Predates r4407
+Goonstation (r4407)     |[Link](https://github.com/SS13-Source-Archive/goonstation-r4407)      |Dates to 2010
+Green (Old)             |[Link](https://github.com/SS13-Source-Archive/green_old)              |Last changed: `21 Mar 2013`
+Garrison 13             |[Link](https://github.com/SS13-Source-Archive/garrison13)             |Last changed: `25 Oct 2016`
+Green                   |[Link](https://github.com/SS13-Source-Archive/green)                  |last changed: `14 Feb 2017`
+Goonstation (2016)      |[Link](https://github.com/SS13-Source-Archive/goonstation-2016)       |Last changed: `26 Jan 2020`
+Goonstation (2020)      |[Link](https://github.com/SS13-Source-Archive/goonstation-2020)       |Last changed: `21 Mar 2020`
 
 ## Active Servers (As of `16 Apr 2022`)
 
@@ -62,3 +71,4 @@ CitadelStation (TG)     |[Link](https://github.com/SS13-Source-Archive/Citadel-S
 CitadelStation RP (Virgo)|[Link](https://github.com/SS13-Source-Archive/Citadel-Station-13-RP) |
 Civilization 13         |[Link](https://github.com/SS13-Source-Archive/Civ13)                  |
 Dead Space 13 (DS13)    |[Link](https://github.com/SS13-Source-Archive/DS13)                   |
+Goonstation Open        |[Link](https://github.com/SS13-Source-Archive/goonstation)            |
