@@ -25,6 +25,8 @@ Nostra 13               |[Link](https://github.com/SS13-Source-Archive/Nostra-13
 NSV 13                  |[Link](https://github.com/SS13-Source-Archive/NSV13)                  |
 Oculus - Eris           |[Link](https://github.com/Occulus-Server/Occulus-Eris)                |
 OnyxBay                 |[Link](https://github.com/SS13-Source-Archive/OnyxBay)                |
+Paradise                |[Link](https://github.com/SS13-Source-Archive/Paradise)               |
+Polaris                 |[Link](https://github.com/SS13-Source-Archive/Polaris)                |
 
 ## Inactive/Defunct Servers
 
@@ -96,6 +98,7 @@ Interpost hauge Urban Warfare|[Link](https://github.com/SS13-Source-Archive/IPH-
 IS12 Warfare            |[Link](https://github.com/SS13-Source-Archive/IS12-Warfare)           |Last changed: `18 Nov 2021`
 Isolation Station 13    |[Link](https://github.com/SS13-Source-Archive/Isolation-Station-14)   |Last changed:  `5 Feb 2017`, (Eris)
 InfinityStation         |[Link](https://github.com/SS13-Source-Archive/EuropaStation-1)        |Last changed: `17 Apr 2018`, (Europa)
+InfinityStation         |[Link](https://github.com/SS13-Source-Archive/ParadiseSS13)           |Last changed: `17 Apr 2018`, (Paradise)
 Isolation Station 13    |[Link](https://github.com/SS13-Source-Archive/Isolation-Station-13)   |Last changed:  `8 Oct 2020`, (Bay12)
 InfinityStation         |[Link](https://github.com/SS13-Source-Archive/Baystation12-1)         |Borderline inactive, changes every few weeks
 Luna                    |[Link](https://github.com/SS13-Source-Archive/luna)                   |Last changed: `16 Dec 2013`
@@ -119,3 +122,7 @@ Open SS13 - Electronics |[Link](https://github.com/SS13-Source-Archive/Open-Stat
 Old World Blue          |[Link](https://github.com/SS13-Source-Archive/Old-World-Blue)         |Last changed:  `4 Jul 2017`
 OracleStation           |[Link](https://github.com/SS13-Source-Archive/OracleStation)          |Last changed:  `7 Oct 2018`
 Old World Blues         |[Link](https://github.com/SS13-Source-Archive/Old-World-Blues)        |Last changed:  `4 Dec 2021`
+Perpetua Station        |[Link](https://github.com/SS13-Source-Archive/Perpetua-Station)       |Last changed: `30 Aug 2020`
+PepsiBay 12             |[Link](https://github.com/SS13-Source-Archive/PepsiBay12)             |Last changed: `15 Oct 2020`
+Persistence Quadrent    |[Link](https://github.com/SS13-Source-Archive/Persistence-QuadA)      |Last changed: `29 Oct 2020`
+PPStation 13            |[Link](https://github.com/SS13-Source-Archive/PPStation13)            |Last changed: `26 Oct 2021`
