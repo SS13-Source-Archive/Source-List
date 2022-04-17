@@ -33,6 +33,8 @@ Sojurn Station          |[Link](https://github.com/SS13-Source-Archive/sojourn-s
 Tau Ceti Classic        |[Link](https://github.com/SS13-Source-Archive/TauCetiClassic)         |
 TerraGov Marine Corps   |[Link](https://github.com/SS13-Source-Archive/TerraGov-Marine-Corps)  |
 /TG/Station             |[Link](https://github.com/SS13-Source-Archive/tgstation-1)            |
+/VG/Station             |[Link](https://github.com/vgstation-coders/vgstation13)               |
+VIRGO Station           |[Link](https://github.com/SS13-Source-Archive/VOREStation)            |
 
 ## Inactive/Defunct Servers
 
@@ -160,3 +162,8 @@ TG Claw                 |[Link](https://github.com/SS13-Source-Archive/TG-Claw) 
 T.E. Station 13         |[Link](https://github.com/SS13-Source-Archive/T.E.Station13-master)   |Last changed:  `7 Oct 2021`
 The Canoe Pirates       |[Link](https://github.com/SS13-Source-Archive/TCPStation)             |Last changed: `22 Oct 2021`
 TGCstation              |[Link](https://github.com/SS13-Source-Archive/tgcstation)             |Last changed: `17 Feb 2022`
+UristMcStation          |[Link](https://github.com/SS13-Source-Archive/UristMcStation)         |Last changed:  `4 Jun 2021`
+/VG/Station RU          |[Link](https://github.com/SS13-Source-Archive/vgstation13-1)          |Last changed:  `6 Apr 2019`
+Vesta of Orion          |[Link](https://github.com/SS13-Source-Archive/Vesta.Nebula)           |Last changed: `15 Jan 2021`, (Nebula)
+/VG/ SS40k              |[Link](https://github.com/SS13-Source-Archive/vg-40k)                 |Last changed: `16 Feb 2021`
+Vesta of Orion          |[Link](https://github.com/SS13-Source-Archive/Vesta.Bay)              |Last changed: `10 Jul 2021`, (Bay12)
