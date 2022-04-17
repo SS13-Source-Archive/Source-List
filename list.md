@@ -36,6 +36,8 @@ TerraGov Marine Corps   |[Link](https://github.com/SS13-Source-Archive/TerraGov-
 /VG/Station             |[Link](https://github.com/vgstation-coders/vgstation13)               |
 VIRGO Station           |[Link](https://github.com/SS13-Source-Archive/VOREStation)            |
 Warhammer IS12          |[Link](https://github.com/SS13-Source-Archive/Warhammer-IS12)         |
+Yogstation              |[Link](https://github.com/SS13-Source-Archive/Yogstation)             |
+Yawn-Wider              |[Link](https://github.com/SS13-Source-Archive/YWPolarisVore)          |
 
 ## Inactive/Defunct Servers
 
@@ -172,3 +174,5 @@ White                   |[Link](https://github.com/SS13-Source-Archive/white)   
 WhiTGreen               |[Link](https://github.com/SS13-Source-Archive/whiTGreen)              |Last changed: `26 Jan 2019`
 WW13                    |[Link](https://github.com/SS13-Source-Archive/WW13)                   |Last changed: `29 May 2020`
 White Sands             |[Link](https://github.com/SS13-Source-Archive/Whitesands)             |Last changed: `11 Sep 2021`
+Yogstation 2017         |[Link](https://github.com/SS13-Source-Archive/yogstation-2017-)       |Last changed:  `3 Apr 2018`
+Yogstation Classic      |[Link](https://github.com/SS13-Source-Archive/yogstation-classic)     |Last changed:  `6 Apr 2019`
