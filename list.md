@@ -23,6 +23,8 @@ Nebula 13               |[Link](https://github.com/SS13-Source-Archive/Nebula)  
 NEV Northern Light      |[Link](https://github.com/SS13-Source-Archive/NEV-Northern-Light)     |
 Nostra 13               |[Link](https://github.com/SS13-Source-Archive/Nostra-13)              |
 NSV 13                  |[Link](https://github.com/SS13-Source-Archive/NSV13)                  |
+Oculus - Eris           |[Link](https://github.com/Occulus-Server/Occulus-Eris)                |
+OnyxBay                 |[Link](https://github.com/SS13-Source-Archive/OnyxBay)                |
 
 ## Inactive/Defunct Servers
 
@@ -113,3 +115,7 @@ NSV Luna Redux-Restoration|[Link](https://github.com/SS13-Source-Archive/NSV-Lun
 New FTL13               |[Link](https://github.com/SS13-Source-Archive/New-FTL13)              |Last changed:  `3 May 2019`
 New Hestia              |[Link](https://github.com/SS13-Source-Archive/NewHestia)              |Last changed:  `6 Dec 2020`
 Nightstation 13         |[Link](https://github.com/SS13-Source-Archive/Nightstation-13)        |Last changed: `29 Jan 2021`
+Open SS13 - Electronics |[Link](https://github.com/SS13-Source-Archive/Open-Station-13)        |Last changed:  `3 Oct 2010`
+Old World Blue          |[Link](https://github.com/SS13-Source-Archive/Old-World-Blue)         |Last changed:  `4 Jul 2017`
+OracleStation           |[Link](https://github.com/SS13-Source-Archive/OracleStation)          |Last changed:  `7 Oct 2018`
+Old World Blues         |[Link](https://github.com/SS13-Source-Archive/Old-World-Blues)        |Last changed:  `4 Dec 2021`
