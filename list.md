@@ -126,3 +126,4 @@ Perpetua Station        |[Link](https://github.com/SS13-Source-Archive/Perpetua-
 PepsiBay 12             |[Link](https://github.com/SS13-Source-Archive/PepsiBay12)             |Last changed: `15 Oct 2020`
 Persistence Quadrent    |[Link](https://github.com/SS13-Source-Archive/Persistence-QuadA)      |Last changed: `29 Oct 2020`
 PPStation 13            |[Link](https://github.com/SS13-Source-Archive/PPStation13)            |Last changed: `26 Oct 2021`
+Project Leviathan       |[Link](https://github.com/SS13-Source-Archive/Project-Leviathan)      |Last changed: `16 Sep 2021`
