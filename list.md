@@ -30,6 +30,9 @@ Polaris                 |[Link](https://github.com/SS13-Source-Archive/Polaris) 
 RussStation             |[Link](https://github.com/SS13-Source-Archive/RussStation)            |
 Skyrat TG               |[Link](https://github.com/SS13-Source-Archive/Skyrat-tg)              |
 Sojurn Station          |[Link](https://github.com/SS13-Source-Archive/sojourn-station)        |
+Tau Ceti Classic        |[Link](https://github.com/SS13-Source-Archive/TauCetiClassic)         |
+TerraGov Marine Corps   |[Link](https://github.com/SS13-Source-Archive/TerraGov-Marine-Corps)  |
+/TG/Station             |[Link](https://github.com/SS13-Source-Archive/tgstation-1)            |
 
 ## Inactive/Defunct Servers
 
@@ -43,6 +46,7 @@ Ark Station             |[Link](https://github.com/SS13-Source-Archive/Ark-Stati
 ARFS-5                  |[Link](https://github.com/SS13-Source-Archive/ARFS-5)                 |Last changed: `29 Nov 2020`
 Apocalypse-13           |[Link](https://github.com/SS13-Source-Archive/Apocalypse-13)          |Last changed:  `9 Jan 2021`
 AusGoon                 |[Link](https://github.com/SS13-Source-Archive/goonstation-1)          |Last changed: `17 Oct 2021`
+Aquila Station 13       |[Link](https://github.com/SS13-Source-Archive/tgstation)              |Last changed: `5 Nov 2021`
 Baystation 12 Pre-r4407 |[Link](https://github.com/SS13-Source-Archive/Baystation12-Pre-Goon)  |Last changed: `19 Jun 2010`
 Black                   |[Link](https://github.com/SS13-Source-Archive/black)                  |Last changed:  `5 May 2014`
 Black Old               |[Link](https://github.com/SS13-Source-Archive/black_old)              |Last changed: `26 Jun 2015`
@@ -102,8 +106,9 @@ IS12 Warfare            |[Link](https://github.com/SS13-Source-Archive/IS12-Warf
 Isolation Station 13    |[Link](https://github.com/SS13-Source-Archive/Isolation-Station-14)   |Last changed:  `5 Feb 2017`, (Eris)
 InfinityStation         |[Link](https://github.com/SS13-Source-Archive/EuropaStation-1)        |Last changed: `17 Apr 2018`, (Europa)
 InfinityStation         |[Link](https://github.com/SS13-Source-Archive/ParadiseSS13)           |Last changed: `17 Apr 2018`, (Paradise)
+Infinitystation         |[Link](https://github.com/SS13-Source-Archive/tgstation-2)            |Last changed: `31 May 2018`, (/TG/)
 Isolation Station 13    |[Link](https://github.com/SS13-Source-Archive/Isolation-Station-13)   |Last changed:  `8 Oct 2020`, (Bay12)
-InfinityStation         |[Link](https://github.com/SS13-Source-Archive/Baystation12-1)         |Borderline inactive, changes every few weeks
+InfinityStation         |[Link](https://github.com/SS13-Source-Archive/Baystation12-1)         |Borderline inactive, changes every few weeks. (Bay12)
 Luna                    |[Link](https://github.com/SS13-Source-Archive/luna)                   |Last changed: `16 Dec 2013`
 Lawful Sosaki           |[Link](https://github.com/SS13-Source-Archive/Lawful-Sosaki)          |Last changed:  `7 Oct 2017`
 Lifeweb Rougelike       |[Link](https://github.com/SS13-Source-Archive/LFWB_Roguelike)         |Last changed: `20 Jun 2020`
@@ -147,3 +152,11 @@ Skyrat 13               |[Link](https://github.com/SS13-Source-Archive/Skyrat13)
 Syzygy Eris             |[Link](https://github.com/SS13-Source-Archive/Syzygy-Eris)            |Last changed: `13 Jan 2021`
 Skyrat TGMC             |[Link](https://github.com/SS13-Source-Archive/Skyrat-tgmc)            |Last changed: `10 Feb 2021`
 Scorpio Station         |[Link](https://github.com/SS13-Source-Archive/ScorpioStation)         |Last changed: `30 Mar 2021`
+Tomato Station          |[Link](https://github.com/SS13-Source-Archive/TomatoStation)          |Last changed: `29 Oct 2017`
+TG Green                |[Link](https://github.com/SS13-Source-Archive/TgGreen)                |Last changed: `15 Nov 2020`
+Trotsky Station         |[Link](https://github.com/SS13-Source-Archive/Trotskystation)         |Last changed:  `8 Jan 2021`
+The World Server - Redux|[Link](https://github.com/SS13-Source-Archive/The-World-Server-Redux) |Last changed: `10 Feb 2021`
+TG Claw                 |[Link](https://github.com/SS13-Source-Archive/TG-Claw)                |Last changed:  `5 Jun 2021`
+T.E. Station 13         |[Link](https://github.com/SS13-Source-Archive/T.E.Station13-master)   |Last changed:  `7 Oct 2021`
+The Canoe Pirates       |[Link](https://github.com/SS13-Source-Archive/TCPStation)             |Last changed: `22 Oct 2021`
+TGCstation              |[Link](https://github.com/SS13-Source-Archive/tgcstation)             |Last changed: `17 Feb 2022`
