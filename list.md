@@ -55,6 +55,7 @@ Atlas Station           |[Link](https://github.com/SS13-Source-Archive/AtlasStat
 Arctic Obsevatory 13    |[Link](https://github.com/SS13-Source-Archive/arctic-observatory-13)  |Last changed: `25 Oct 2015`
 1983 Escalation         |[Link](https://github.com/SS13-Source-Archive/1983-Escalation)        |Last changed:  `5 Nov 2017`
 Absolutely New White    |[Link](https://github.com/SS13-Source-Archive/absolutelynewwhite)     |Last changed:  `9 Jan 2018`
+Age of the Spess Imperium|[Link](https://github.com/SS13-Source-Archive/SS13-Age-of-the-Spess-Imperium)|Last changed: `20 Apr 2019`
 Ark Station             |[Link](https://github.com/SS13-Source-Archive/Ark-Station)            |Last changed: `11 Feb 2020`
 ARFS-5                  |[Link](https://github.com/SS13-Source-Archive/ARFS-5)                 |Last changed: `29 Nov 2020`
 Apocalypse-13           |[Link](https://github.com/SS13-Source-Archive/Apocalypse-13)          |Last changed:  `9 Jan 2021`
@@ -122,6 +123,7 @@ InfinityStation         |[Link](https://github.com/SS13-Source-Archive/ParadiseS
 Infinitystation         |[Link](https://github.com/SS13-Source-Archive/tgstation-2)            |Last changed: `31 May 2018`, (/TG/)
 Isolation Station 13    |[Link](https://github.com/SS13-Source-Archive/Isolation-Station-13)   |Last changed:  `8 Oct 2020`, (Bay12)
 InfinityStation         |[Link](https://github.com/SS13-Source-Archive/Baystation12-1)         |Borderline inactive, changes every few weeks. (Bay12)
+Lepro Station 13        |[Link](https://github.com/SS13-Source-Archive/ss13-1)                 |Last changed: `27 Nov 2010`
 Luna                    |[Link](https://github.com/SS13-Source-Archive/luna)                   |Last changed: `16 Dec 2013`
 Lawful Sosaki           |[Link](https://github.com/SS13-Source-Archive/Lawful-Sosaki)          |Last changed:  `7 Oct 2017`
 Lifeweb Rougelike       |[Link](https://github.com/SS13-Source-Archive/LFWB_Roguelike)         |Last changed: `20 Jun 2020`
