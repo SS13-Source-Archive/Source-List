@@ -23,6 +23,7 @@ HypatiaStation          |[Link](https://github.com/SS13-Source-Archive/HypatiaSt
 Hyper Station 13        |[Link](https://github.com/SS13-Source-Archive/Hyper-Station-13)       |
 JollyStation            |[Link](https://github.com/SS13-Source-Archive/JollyStation)           |
 Lumos 13                |[Link](https://github.com/SS13-Source-Archive/Lumos)                  |
+Mojave Sun              |[Link](https://github.com/SS13-Source-Archive/mojave-sun-13)          |
 Nebula 13               |[Link](https://github.com/SS13-Source-Archive/Nebula)                 |
 NEV Northern Light      |[Link](https://github.com/SS13-Source-Archive/NEV-Northern-Light)     |
 Nostra 13               |[Link](https://github.com/SS13-Source-Archive/Nostra-13)              |
@@ -134,7 +135,7 @@ Mars Station 13         |[Link](https://github.com/SS13-Source-Archive/mars-stat
 Manaforge               |[Link](https://github.com/SS13-Source-Archive/manaforge)              |Last changed: `12 Jul 2020`
 Manos                   |[Link](https://github.com/SS13-Source-Archive/Manaos)                 |Last changed:  `4 Oct 2020`
 MonkeyStation           |[Link](https://github.com/SS13-Source-Archive/MonkeyStation)          |Last changed: `20 Jul 2021`
-Mojave Sun              |[Link](https://github.com/SS13-Source-Archive/mojave-sun)             |Last changed: `25 Aug 2021`
+Mojave Sun (Old)        |[Link](https://github.com/SS13-Source-Archive/mojave-sun)             |Last changed: `25 Aug 2021`
 Skyrat - Nebula         |[Link](https://github.com/SS13-Source-Archive/Nebula-1)               |Last changed:  `8 Oct 2020`
 NTstation 13            |[Link](https://github.com/SS13-Source-Archive/NTstation13)            |Last changed:  `2 Sep 2014`
 NSV Luna Redux          |[Link](https://github.com/SS13-Source-Archive/NSV-Luna-Redux)         |Last changed: `17 Apr 2018`
