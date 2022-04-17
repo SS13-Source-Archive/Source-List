@@ -28,6 +28,8 @@ OnyxBay                 |[Link](https://github.com/SS13-Source-Archive/OnyxBay) 
 Paradise                |[Link](https://github.com/SS13-Source-Archive/Paradise)               |
 Polaris                 |[Link](https://github.com/SS13-Source-Archive/Polaris)                |
 RussStation             |[Link](https://github.com/SS13-Source-Archive/RussStation)            |
+Skyrat TG               |[Link](https://github.com/SS13-Source-Archive/Skyrat-tg)              |
+Sojurn Station          |[Link](https://github.com/SS13-Source-Archive/sojourn-station)        |
 
 ## Inactive/Defunct Servers
 
@@ -128,5 +130,20 @@ PepsiBay 12             |[Link](https://github.com/SS13-Source-Archive/PepsiBay1
 Persistence Quadrent    |[Link](https://github.com/SS13-Source-Archive/Persistence-QuadA)      |Last changed: `29 Oct 2020`
 Project Leviathan       |[Link](https://github.com/SS13-Source-Archive/Project-Leviathan)      |Last changed: `16 Sep 2021`
 PPStation 13            |[Link](https://github.com/SS13-Source-Archive/PPStation13)            |Last changed: `26 Oct 2021`
+Red Dwarf               |[Link](https://github.com/SS13-Source-Archive/Red-Dwarf)              |Last changed: `23 Sep 2011`
 RussStation (old)       |[Link](https://github.com/SS13-Source-Archive/RussStation-1)          |Last changed: `10 Jun 2019`
 Rouge Station           |[Link](https://github.com/SS13-Source-Archive/Rogue-Station-Live)     |Last changed: `27 Mar 2021`
+SS13 - Chesshunter      |[Link](https://github.com/SS13-Source-Archive/spacestation13)         |Last changed: `23 Jun 2010`, Slightly modified r4407
+Stalkerbuild            |[Link](https://github.com/SS13-Source-Archive/stalkerbuild)           |Last changed: `24 Dec 2016`
+SS13 - Immibis          |[Link](https://github.com/SS13-Source-Archive/ss13)                   |Last changed: `29 Oct 2011`
+SCP13                   |[Link](https://github.com/SS13-Source-Archive/SS13-SCP13)             |Last changed: `26 Dec 2018`
+Secret-NNN              |[Link](https://github.com/SS13-Source-Archive/Secret-NNN)             |Last changed: `19 Jan 2019`
+Space Station 413       |[Link](https://github.com/SS13-Source-Archive/spacestation413-2019)   |Last changed: `18 Aug 2019`
+Skyrat - Citadel        |[Link](https://github.com/SS13-Source-Archive/Skyrat-Cit)             |Last changed: `28 Jan 2020`
+Skyrat Station          |[Link](https://github.com/SS13-Source-Archive/Skyrat-Station)         |Last changed:  `8 Feb 2020`
+Star Wars 13            |[Link](https://github.com/SS13-Source-Archive/StarWars13-Yog)         |Last changed: `17 Feb 2020`
+Star Wars Legends 13    |[Link](https://github.com/SS13-Source-Archive/Star-Wars-Legends-13)   |Last changed: `27 Oct 2020`
+Skyrat 13               |[Link](https://github.com/SS13-Source-Archive/Skyrat13)               |Last changed: `30 Dec 2020`
+Syzygy Eris             |[Link](https://github.com/SS13-Source-Archive/Syzygy-Eris)            |Last changed: `13 Jan 2021`
+Skyrat TGMC             |[Link](https://github.com/SS13-Source-Archive/Skyrat-tgmc)            |Last changed: `10 Feb 2021`
+Scorpio Station         |[Link](https://github.com/SS13-Source-Archive/ScorpioStation)         |Last changed: `30 Mar 2021`
