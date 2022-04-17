@@ -1,7 +1,5 @@
 # List of Servers Forked Here
 
-(this is WIP ive not updated this archive in a year and im still listing everything here)
-
 ## Active Servers (As of `16 Apr 2022`)
 
 Server                  |Source                                                                |Notes
