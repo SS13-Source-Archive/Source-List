@@ -32,6 +32,7 @@ Oculus - Eris           |[Link](https://github.com/Occulus-Server/Occulus-Eris) 
 Paradise                |[Link](https://github.com/SS13-Source-Archive/Paradise)               |
 Polaris                 |[Link](https://github.com/SS13-Source-Archive/Polaris)                |
 RussStation             |[Link](https://github.com/SS13-Source-Archive/RussStation)            |
+S.P.L.U.R.T. Station    |[Link](https://github.com/SS13-Source-Archive/S.P.L.U.R.T-Station-13) |
 Shiptest                |[Link](https://github.com/SS13-Source-Archive/Shiptest)               |
 SinguloStation Blue     |[Link](https://github.com/SS13-Source-Archive/SinguloStation-Blue)    |
 Skyrat TG               |[Link](https://github.com/SS13-Source-Archive/Skyrat-tg)              |
