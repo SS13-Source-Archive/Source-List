@@ -23,6 +23,7 @@ HypatiaStation          |[Link](https://github.com/SS13-Source-Archive/HypatiaSt
 Hyper Station 13        |[Link](https://github.com/SS13-Source-Archive/Hyper-Station-13)       |
 JollyStation            |[Link](https://github.com/SS13-Source-Archive/JollyStation)           |
 Lumos 13                |[Link](https://github.com/SS13-Source-Archive/Lumos)                  |
+MapleStation            |[Link](https://github.com/SS13-Source-Archive/MapleStationCode)       |
 Mojave Sun              |[Link](https://github.com/SS13-Source-Archive/mojave-sun-13)          |
 Nebula 13               |[Link](https://github.com/SS13-Source-Archive/Nebula)                 |
 NEV Northern Light      |[Link](https://github.com/SS13-Source-Archive/NEV-Northern-Light)     |
