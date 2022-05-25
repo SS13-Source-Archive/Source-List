@@ -29,7 +29,7 @@ Nebula 13                           |[Link](https://github.com/SS13-Source-Archi
 NEV Northern Light                  |[Link](https://github.com/SS13-Source-Archive/NEV-Northern-Light)                 |
 Nostra 13                           |[Link](https://github.com/SS13-Source-Archive/Nostra-13)                          |
 NSV 13                              |[Link](https://github.com/SS13-Source-Archive/NSV13)                              |
-Oculus - Eris                       |[Link](https://github.com/Occulus-Server/Occulus-Eris)                            |
+Oculus - Eris                       |[Link](https://github.com/SS13-Source-Archive/Occulus-Eris)                       |
 Paradise                            |[Link](https://github.com/SS13-Source-Archive/Paradise)                           |
 Polaris                             |[Link](https://github.com/SS13-Source-Archive/Polaris)                            |
 RussStation                         |[Link](https://github.com/SS13-Source-Archive/RussStation)                        |
@@ -41,7 +41,7 @@ Sojurn Station                      |[Link](https://github.com/SS13-Source-Archi
 Tau Ceti Classic                    |[Link](https://github.com/SS13-Source-Archive/TauCetiClassic)                     |
 TerraGov Marine Corps               |[Link](https://github.com/SS13-Source-Archive/TerraGov-Marine-Corps)              |
 /TG/Station                         |[Link](https://github.com/SS13-Source-Archive/TGstation)                          |
-/VG/Station                         |[Link](https://github.com/vgstation-coders/vgstation13)                           |
+/VG/Station                         |[Link](https://github.com/SS13-Source-Archive/vgstation13)                        |
 VIRGO Station                       |[Link](https://github.com/SS13-Source-Archive/VOREStation)                        |
 Warhammer IS12                      |[Link](https://github.com/SS13-Source-Archive/Warhammer-IS12)                     |
 White Dream                         |[Link](https://github.com/SS13-Source-Archive/white-dream)                        |
@@ -78,9 +78,9 @@ Colonial Marines Fork               |[Link](https://github.com/SS13-Source-Archi
 Carpstation -1                      |[Link](https://github.com/SS13-Source-Archive/CarpStation-1)                      |Uploaded `16 Sep 2020`, No commit history
 Carpstation -2                      |[Link](https://github.com/SS13-Source-Archive/CarpStation-2)                      |Uploaded `16 Sep 2020`, No commit history
 Carpstation                         |[Link](https://github.com/SS13-Source-Archive/CarpStation)                        |Last changed:  `4 Oct 2020`
-Chaos Rising SS13                   |[Link](https://github.com/Chaos-Rising/ChaosRisingSS13)                           |Last changed: `30 Oct 2020`
+Chaos Rising SS13                   |[Link](https://github.com/SS13-Source-Archive/ChaosRisingSS13)                    |Last changed: `30 Oct 2020`
 CHOMPStation (Old)                  |[Link](https://github.com/SS13-Source-Archive/CHOMPstation)                       |Last changed:  `2 Jan 2021`
-ColonyStation                       |[Link](https://github.com/SolCorporation/ColonyStation)                           |Last changed: `14 Jan 2021`
+ColonyStation                       |[Link](https://github.com/SS13-Source-Archive/ColonyStation)                      |Last changed: `14 Jan 2021`
 Clear Skies                         |[Link](https://github.com/SS13-Source-Archive/ClearSkies)                         |Last changed: `19 May 2021`
 Chaotic Onyx (Beestation)           |[Link](https://github.com/SS13-Source-Archive/OnyxBee)                            |Borderline inactive, changes every few weeks
 D2Station (v1, v2, v4)              |[Link](https://github.com/SS13-Source-Archive/d2station-full)                     |Uploaded `1 Feb 2020`, Dates to 2009-2013 in branches
@@ -91,7 +91,7 @@ Desertrose (Old)                    |[Link](https://github.com/SS13-Source-Archi
 Escalation By Milo                  |[Link](https://github.com/SS13-Source-Archive/EscalationByMio)                    |Last changed: `31 Mar 2018`
 Europa Station                      |[Link](https://github.com/SS13-Source-Archive/EuropaStation)                      |Last changed: `15 Feb 2019`
 Eclipse Station 13                  |[Link](https://github.com/SS13-Source-Archive/Eclipse-Station-13)                 |Last changed: `23 Feb 2020`
-EPN5 Anarchy                        |[Link](https://github.com/Anarchist-Station/EPN5-Anarchy)                         |Last changed: `18 Sep 2020`
+EPN5 Anarchy                        |[Link](https://github.com/SS13-Source-Archive/EPN5-Anarchy)                       |Last changed: `18 Sep 2020`
 Escape Pod Number Five (EPN5)       |[Link](https://github.com/SS13-Source-Archive/EPN5-Neb)                           |Last changed: `13 Feb 2021`
 Fallout 13                          |[Link](https://github.com/SS13-Source-Archive/Fallout13)                          |Last changed: `10 Apr 2016`, (F13 a0.3)
 Fallout 13                          |[Link](https://github.com/SS13-Source-Archive/Fallout-13)                         |Last changed: `10 Nov 2017`, (F13 b0.1)
@@ -115,12 +115,12 @@ HippieStation  -1                   |[Link](https://github.com/SS13-Source-Archi
 HippieStation  -2                   |[Link](https://github.com/SS13-Source-Archive/HippieStation13-2)                  |Last changed: `12 Apr 2017`
 Hippie's Battlegrounds              |[Link](https://github.com/SS13-Source-Archive/HippiesBattlegrounds)               |Last changed: `16 Nov 2017`
 HippieStation 2020                  |[Link](https://github.com/SS13-Source-Archive/HippieStation)                      |Last changed: `16 Dec 2021`
-Haven Urist                         |[Link](https://github.com/Haven-13/Haven-Urist)                                   |Borderline inactive, changes every few weeks
+Haven Urist                         |[Link](https://github.com/SS13-Source-Archive/Haven-Urist)                        |Borderline inactive, changes every few weeks
 Insurrection 13                     |[Link](https://github.com/SS13-Source-Archive/Insurrection-13)                    |Last changed: `30 Jul 2020`
 InterBay                            |[Link](https://github.com/SS13-Source-Archive/InterBay)                           |Last changed: `10 Dec 2017`
-Interpost Hauge                     |[Link](https://github.com/SS13-Source-Archive/Interpost-Hague-1)                  |Last changed: `11 Aug 2020`
+Interpost Hague                     |[Link](https://github.com/SS13-Source-Archive/Interpost-Hague-1)                  |Last changed: `11 Aug 2020`
 Interpost Redux                     |[Link](https://github.com/SS13-Source-Archive/Interpost-Redux-1)                  |Last changed:  `2 Nov 2020`
-Interpost hauge Urban Warfare       |[Link](https://github.com/SS13-Source-Archive/IPH-Urban-Warfare)                  |Last changed:  `1 Apr 2020`
+Interpost Hague Urban Warfare       |[Link](https://github.com/SS13-Source-Archive/IPH-Urban-Warfare)                  |Last changed:  `1 Apr 2020`
 IS12 Warfare                        |[Link](https://github.com/SS13-Source-Archive/IS12-Warfare)                       |Last changed: `18 Nov 2021`
 Isolation Station 13                |[Link](https://github.com/SS13-Source-Archive/Isolation-Station-14)               |Last changed:  `5 Feb 2017`, (Eris)
 InfinityStation                     |[Link](https://github.com/SS13-Source-Archive/Infinity-Europa)                    |Last changed: `17 Apr 2018`, (Europa)
