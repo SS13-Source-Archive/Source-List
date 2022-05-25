@@ -18,7 +18,7 @@ Dead Space 13 (DS13)    |[Link](https://github.com/SS13-Source-Archive/DS13)    
 Fulpstation             |[Link](https://github.com/SS13-Source-Archive/fulpstation)            |
 Fortune 13              |[Link](https://github.com/SS13-Source-Archive/Fortune13)              |
 Goonstation Open        |[Link](https://github.com/SS13-Source-Archive/goonstation)            |
-Hearth of Hestia        |[Link](https://github.com/SS13-Source-Archive/Nebula-2)               |
+Hearth of Hestia        |[Link](https://github.com/SS13-Source-Archive/HearthOfHestia)         |
 HypatiaStation          |[Link](https://github.com/SS13-Source-Archive/HypatiaStation)         |
 Hyper Station 13        |[Link](https://github.com/SS13-Source-Archive/Hyper-Station-13)       |
 JollyStation            |[Link](https://github.com/SS13-Source-Archive/JollyStation)           |
@@ -40,7 +40,7 @@ Skyrat TG               |[Link](https://github.com/SS13-Source-Archive/Skyrat-tg
 Sojurn Station          |[Link](https://github.com/SS13-Source-Archive/sojourn-station)        |
 Tau Ceti Classic        |[Link](https://github.com/SS13-Source-Archive/TauCetiClassic)         |
 TerraGov Marine Corps   |[Link](https://github.com/SS13-Source-Archive/TerraGov-Marine-Corps)  |
-/TG/Station             |[Link](https://github.com/SS13-Source-Archive/tgstation-1)            |
+/TG/Station             |[Link](https://github.com/SS13-Source-Archive/TGstation)              |
 /VG/Station             |[Link](https://github.com/vgstation-coders/vgstation13)               |
 VIRGO Station           |[Link](https://github.com/SS13-Source-Archive/VOREStation)            |
 Warhammer IS12          |[Link](https://github.com/SS13-Source-Archive/Warhammer-IS12)         |
@@ -60,8 +60,8 @@ Age of the Spess Imperium|[Link](https://github.com/SS13-Source-Archive/SS13-Age
 Ark Station             |[Link](https://github.com/SS13-Source-Archive/Ark-Station)            |Last changed: `11 Feb 2020`
 ARFS-5                  |[Link](https://github.com/SS13-Source-Archive/ARFS-5)                 |Last changed: `29 Nov 2020`
 Apocalypse-13           |[Link](https://github.com/SS13-Source-Archive/Apocalypse-13)          |Last changed:  `9 Jan 2021`
-AusGoon                 |[Link](https://github.com/SS13-Source-Archive/goonstation-1)          |Last changed: `17 Oct 2021`
-Aquila Station 13       |[Link](https://github.com/SS13-Source-Archive/tgstation)              |Last changed: `5 Nov 2021`
+AusGoon                 |[Link](https://github.com/SS13-Source-Archive/AuGoon)                 |Last changed: `17 Oct 2021`
+Aquila Station 13       |[Link](https://github.com/SS13-Source-Archive/AquillaStation)         |Last changed: `5 Nov 2021`
 Baystation 12 Pre-r4407 |[Link](https://github.com/SS13-Source-Archive/Baystation12-Pre-Goon)  |Last changed: `19 Jun 2010`
 Black                   |[Link](https://github.com/SS13-Source-Archive/black)                  |Last changed:  `5 May 2014`
 Black Old               |[Link](https://github.com/SS13-Source-Archive/black_old)              |Last changed: `26 Jun 2015`
@@ -82,7 +82,7 @@ Chaos Rising SS13       |[Link](https://github.com/Chaos-Rising/ChaosRisingSS13)
 CHOMPStation (Old)      |[Link](https://github.com/SS13-Source-Archive/CHOMPstation)           |Last changed:  `2 Jan 2021`
 ColonyStation           |[Link](https://github.com/SolCorporation/ColonyStation)               |Last changed: `14 Jan 2021`
 Clear Skies             |[Link](https://github.com/SS13-Source-Archive/ClearSkies)             |Last changed: `19 May 2021`
-Chaotic Onyx (Beestation)|[Link](https://github.com/SS13-Source-Archive/BeeStation)            |Borderline inactive, changes every few weeks
+Chaotic Onyx (Beestation)|[Link](https://github.com/SS13-Source-Archive/OnyxBee)               |Borderline inactive, changes every few weeks
 D2Station (v1, v2, v4)  |[Link](https://github.com/SS13-Source-Archive/d2station-full)         |Uploaded `1 Feb 2020`, Dates to 2009-2013 in branches
 Daedalus                |[Link](https://github.com/SS13-Source-Archive/daedalus)               |Last changed: `23 Mar 2014`
 Dragonroll              |[Link](https://github.com/SS13-Source-Archive/dragonroll)             |Last changed: `17 Aug 2015`
@@ -123,11 +123,11 @@ Interpost Redux         |[Link](https://github.com/SS13-Source-Archive/Interpost
 Interpost hauge Urban Warfare|[Link](https://github.com/SS13-Source-Archive/IPH-Urban-Warfare) |Last changed:  `1 Apr 2020`
 IS12 Warfare            |[Link](https://github.com/SS13-Source-Archive/IS12-Warfare)           |Last changed: `18 Nov 2021`
 Isolation Station 13    |[Link](https://github.com/SS13-Source-Archive/Isolation-Station-14)   |Last changed:  `5 Feb 2017`, (Eris)
-InfinityStation         |[Link](https://github.com/SS13-Source-Archive/EuropaStation-1)        |Last changed: `17 Apr 2018`, (Europa)
-InfinityStation         |[Link](https://github.com/SS13-Source-Archive/ParadiseSS13)           |Last changed: `17 Apr 2018`, (Paradise)
-InfinityStation         |[Link](https://github.com/SS13-Source-Archive/tgstation-2)            |Last changed: `31 May 2018`, (/TG/)
+InfinityStation         |[Link](https://github.com/SS13-Source-Archive/Infinity-Europa)        |Last changed: `17 Apr 2018`, (Europa)
+InfinityStation         |[Link](https://github.com/SS13-Source-Archive/Infinity-Paradise)      |Last changed: `17 Apr 2018`, (Paradise)
+InfinityStation         |[Link](https://github.com/SS13-Source-Archive/Infinity-TG)            |Last changed: `31 May 2018`, (/TG/)
 Isolation Station 13    |[Link](https://github.com/SS13-Source-Archive/Isolation-Station-13)   |Last changed:  `8 Oct 2020`, (Bay12)
-InfinityStation         |[Link](https://github.com/SS13-Source-Archive/Baystation12-1)         |Borderline inactive, changes every few weeks. (Bay12)
+InfinityStation         |[Link](https://github.com/SS13-Source-Archive/Infinity-Bay)           |Borderline inactive, changes every few weeks. (Bay12)
 JollyStation (Old)      |[Link](https://github.com/SS13-Source-Archive/JollyStation_Pre_June_2021)|Last changed: `15 Jun 2021`
 Lepro Station 13        |[Link](https://github.com/SS13-Source-Archive/ss13-1)                 |Last changed: `27 Nov 2010`
 Luna                    |[Link](https://github.com/SS13-Source-Archive/luna)                   |Last changed: `16 Dec 2013`
@@ -139,7 +139,7 @@ Manaforge               |[Link](https://github.com/SS13-Source-Archive/manaforge
 Manos                   |[Link](https://github.com/SS13-Source-Archive/Manaos)                 |Last changed:  `4 Oct 2020`
 MonkeyStation           |[Link](https://github.com/SS13-Source-Archive/MonkeyStation)          |Last changed: `20 Jul 2021`
 Mojave Sun (Old)        |[Link](https://github.com/SS13-Source-Archive/mojave-sun)             |Last changed: `25 Aug 2021`
-Skyrat - Nebula         |[Link](https://github.com/SS13-Source-Archive/Nebula-1)               |Last changed:  `8 Oct 2020`
+Skyrat - Nebula         |[Link](https://github.com/SS13-Source-Archive/Skyrat-Nebula)          |Last changed:  `8 Oct 2020`
 NTstation 13            |[Link](https://github.com/SS13-Source-Archive/NTstation13)            |Last changed:  `2 Sep 2014`
 NSV Luna Redux          |[Link](https://github.com/SS13-Source-Archive/NSV-Luna-Redux)         |Last changed: `17 Apr 2018`
 Novastation             |[Link](https://github.com/SS13-Source-Archive/NovaStation)            |Last changed: `21 Apr 2018`
@@ -182,7 +182,7 @@ T.E. Station 13         |[Link](https://github.com/SS13-Source-Archive/T.E.Stati
 The Canoe Pirates       |[Link](https://github.com/SS13-Source-Archive/TCPStation)             |Last changed: `22 Oct 2021`
 TGCstation              |[Link](https://github.com/SS13-Source-Archive/tgcstation)             |Last changed: `17 Feb 2022`
 UristMcStation          |[Link](https://github.com/SS13-Source-Archive/UristMcStation)         |Last changed:  `4 Jun 2021`
-/VG/Station RU          |[Link](https://github.com/SS13-Source-Archive/vgstation13-1)          |Last changed:  `6 Apr 2019`
+/VG/Station RU          |[Link](https://github.com/SS13-Source-Archive/VGstationRU)            |Last changed:  `6 Apr 2019`
 Vesta of Orion          |[Link](https://github.com/SS13-Source-Archive/Vesta.Nebula)           |Last changed: `15 Jan 2021`, (Nebula)
 /VG/ SS40k              |[Link](https://github.com/SS13-Source-Archive/vg-40k)                 |Last changed: `16 Feb 2021`
 Vesta of Orion          |[Link](https://github.com/SS13-Source-Archive/Vesta.Bay)              |Last changed: `10 Jul 2021`, (Bay12)
