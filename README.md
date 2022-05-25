@@ -129,7 +129,7 @@ InfinityStation         |[Link](https://github.com/SS13-Source-Archive/Infinity-
 Isolation Station 13    |[Link](https://github.com/SS13-Source-Archive/Isolation-Station-13)   |Last changed:  `8 Oct 2020`, (Bay12)
 InfinityStation         |[Link](https://github.com/SS13-Source-Archive/Infinity-Bay)           |Borderline inactive, changes every few weeks. (Bay12)
 JollyStation (Old)      |[Link](https://github.com/SS13-Source-Archive/JollyStation_Pre_June_2021)|Last changed: `15 Jun 2021`
-Lepro Station 13        |[Link](https://github.com/SS13-Source-Archive/ss13-1)                 |Last changed: `27 Nov 2010`
+Lepro Station 13        |[Link](https://github.com/SS13-Source-Archive/LeproStation)           |Last changed: `27 Nov 2010`
 Luna                    |[Link](https://github.com/SS13-Source-Archive/luna)                   |Last changed: `16 Dec 2013`
 Lawful Sosaki           |[Link](https://github.com/SS13-Source-Archive/Lawful-Sosaki)          |Last changed:  `7 Oct 2017`
 Lifeweb Rougelike       |[Link](https://github.com/SS13-Source-Archive/LFWB_Roguelike)         |Last changed: `20 Jun 2020`
