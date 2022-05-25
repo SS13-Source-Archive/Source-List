@@ -3,7 +3,7 @@
 ## Active Servers (As of `16 Apr 2022`)
 
 Server                              |Source                                                                            |Notes
-------------------------------------|----------------------------------------------------------------------------------|
+------------------------------------|----------------------------------------------------------------------------------|--------------------------
 Austation                           |[Link](https://github.com/SS13-Source-Archive/austation)                          |
 Aurorastation                       |[Link](https://github.com/SS13-Source-Archive/Aurora.3)                           |
 Baystation 12                       |[Link](https://github.com/SS13-Source-Archive/Baystation12)                       |
@@ -50,8 +50,8 @@ Yawn-Wider                          |[Link](https://github.com/SS13-Source-Archi
 
 ## Inactive/Defunct Servers
 
-Server                              |Source                                                               Z            |Notes
-------------------------------------|----------------------------------------------------------------------------------|--------
+Server                              |Source                                                                            |Notes
+------------------------------------|----------------------------------------------------------------------------------|--------------------------
 Atlas Station                       |[Link](https://github.com/SS13-Source-Archive/AtlasStation)                       |Last changed: `23 Apr 2015`
 Arctic Obsevatory 13                |[Link](https://github.com/SS13-Source-Archive/arctic-observatory-13)              |Last changed: `25 Oct 2015`
 1983 Escalation                     |[Link](https://github.com/SS13-Source-Archive/1983-Escalation)                    |Last changed:  `5 Nov 2017`
