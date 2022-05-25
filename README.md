@@ -19,6 +19,7 @@ Fulpstation                         |[Link](https://github.com/SS13-Source-Archi
 Fortune 13                          |[Link](https://github.com/SS13-Source-Archive/Fortune13)                          |
 Goonstation Open                    |[Link](https://github.com/SS13-Source-Archive/goonstation)                        |
 Hearth of Hestia                    |[Link](https://github.com/SS13-Source-Archive/HearthOfHestia)                     |
+Horizon Station 13                  |[Link](https://github.com/SS13-Source-Archive/Horizon)                            |
 HypatiaStation                      |[Link](https://github.com/SS13-Source-Archive/HypatiaStation)                     |
 Hyper Station 13                    |[Link](https://github.com/SS13-Source-Archive/Hyper-Station-13)                   |
 JollyStation                        |[Link](https://github.com/SS13-Source-Archive/JollyStation)                       |
@@ -39,6 +40,7 @@ SinguloStation Blue                 |[Link](https://github.com/SS13-Source-Archi
 Skyrat TG                           |[Link](https://github.com/SS13-Source-Archive/Skyrat-tg)                          |
 Sojurn Station                      |[Link](https://github.com/SS13-Source-Archive/sojourn-station)                    |
 Tau Ceti Classic                    |[Link](https://github.com/SS13-Source-Archive/TauCetiClassic)                     |
+Tegustation                         |[Link](https://github.com/SS13-Source-Archive/tegustation-bay12)                  |
 TerraGov Marine Corps               |[Link](https://github.com/SS13-Source-Archive/TerraGov-Marine-Corps)              |
 /TG/Station                         |[Link](https://github.com/SS13-Source-Archive/TGstation)                          |
 /VG/Station                         |[Link](https://github.com/SS13-Source-Archive/vgstation13)                        |
