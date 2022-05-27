@@ -22,7 +22,7 @@ Hearth of Hestia                    |[Link](https://github.com/SS13-Source-Archi
 Horizon Station 13                  |[Link](https://github.com/SS13-Source-Archive/Horizon)                            |
 HypatiaStation                      |[Link](https://github.com/SS13-Source-Archive/HypatiaStation)                     |
 Hyper Station 13                    |[Link](https://github.com/SS13-Source-Archive/Hyper-Station-13)                   |
-JollyStation                        |[Link](https://github.com/SS13-Source-Archive/JollyStation)                       |
+JollyStation                        |[Link](https://github.com/SS13-Source-Archive/JollyStation-Commit-Archive)        |
 Lumos 13                            |[Link](https://github.com/SS13-Source-Archive/Lumos)                              |
 MapleStation                        |[Link](https://github.com/SS13-Source-Archive/MapleStationCode)                   |
 Mojave Sun                          |[Link](https://github.com/SS13-Source-Archive/mojave-sun-13)                      |
